@@ -1,0 +1,8 @@
+node{
+   stage ("compile"){
+   "echo hello"
+   }
+   stage ("build"){
+   "echo world"
+   }
+}
